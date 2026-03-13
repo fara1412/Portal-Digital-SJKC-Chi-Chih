@@ -1,1 +1,0 @@
-// Sila gunakan index.html untuk menjalankan aplikasi ini sebagai satu fail tunggal.
